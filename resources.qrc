@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/csv_to_map" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
